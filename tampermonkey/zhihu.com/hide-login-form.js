@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         隐藏知乎登录
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/zungmou/online/
+// @homepage     https://github.com/zungmou/online/blob/main/tampermonkey/zhihu.com/hide-login-form.js
+// @version      0.2
 // @description  隐藏未登录状态下知乎的强制登录界面。
-// @author       You
+// @author       zungmou
+// @downloadURL  https://raw.githubusercontent.com/zungmou/online/main/tampermonkey/zhihu.com/hide-login-form.js
 // @match        https://web.archive.org/web/*/https://www.zhihu.com/question/*/answer/*
 // @grant        none
 // ==/UserScript==
